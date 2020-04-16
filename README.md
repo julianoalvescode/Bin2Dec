@@ -35,7 +35,7 @@ O desafio era desenvolver uma aplicação que converte números binários para b
 ## Start:
 
     yarn install
-    yarn start
+    yarn serve
 
 ## Build:
 
